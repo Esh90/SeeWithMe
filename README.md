@@ -1,5 +1,7 @@
 # SeeWithMe – AI Vision Assistant
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/4e6866b8-c0dc-4fa6-8909-ce106000769c" />
+
 A voice-first PWA for visually impaired users. Pixel-perfect recreation of the provided design.
 
 ## Quick Start
@@ -9,7 +11,7 @@ npm install
 npm run dev
 ```
 
-Open ---Live url
+Open ---Live url https://see-with-me-zge7.vercel.app/
 
 ## Build for Production
 ```bash
