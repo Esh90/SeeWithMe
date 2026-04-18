@@ -11,7 +11,7 @@ npm install
 npm run dev
 ```
 
-Open ---Live url https://see-with-me-zge7.vercel.app/
+Open ---Live url https://imagepipeline.vercel.app/
 
 ## Build for Production
 ```bash
