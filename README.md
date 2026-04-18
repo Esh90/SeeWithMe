@@ -32,17 +32,3 @@ npm run preview
 - 📷 Camera stream background
 - 📱 Installable PWA
 
-## Backend Integration
-Edit `src/services/api.js` and set:
-```
-VITE_API_BASE_URL=https://your-api.com
-```
-All mock functions have identical real API signatures.
-
-## Commands (Voice)
-- "What do you see?" → VQA
-- "Navigate to the park" → Navigation
-- "Remember my keys are on the table" → Store memory
-- "Where are my keys?" → Query memory
-- "Help" → List commands
-- "Stop" → Cancel
