@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:5173
+Open ---Live url
 
 ## Build for Production
 ```bash
